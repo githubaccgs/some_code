@@ -5,4 +5,4 @@ echo "$NUMBER"
 
 echo "this was run automagically"
 echo "This is the new line ......"
-
+echo " adding new comment2"
